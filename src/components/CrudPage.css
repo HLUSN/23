@@ -1,0 +1,83 @@
+.crud-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  background: rgba(255,255,255,0.1) !important;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(120, 72, 0, 0.13);
+  border: 1.5px solid #b7a16a;
+  padding: 2rem;
+}
+
+.crud-title {
+  color: #4e944f;
+  font-size: 2em;
+  margin-bottom: 1rem;
+}
+
+.crud-form input,
+.crud-form textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: 1.5px solid #b5c7b3;
+  background: #f5eee6;
+  color: #3a2c13;
+}
+
+.crud-form button {
+  background: #388e3c;
+  color: #fff;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.3s, color 0.3s;
+}
+
+.crud-form button:hover {
+  background: #6b4f27;
+  color: #fffbe6;
+}
+
+.guide-list {
+  margin-top: 2rem;
+}
+
+.guide-card {
+  background: #f5eee6;
+  margin-bottom: 1.2rem;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(120, 72, 0, 0.07);
+  transition: box-shadow 0.2s;
+}
+
+.guide-card h3 {
+  margin-top: 0;
+  color: #6b4f27;
+}
+
+.guide-card button {
+  margin-right: 1rem;
+  background: #a3b18a;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.4rem 1rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.2s;
+}
+
+.guide-card button:hover {
+  background: #6b4f27;
+}
+
+.guide-gif {
+  width: 160px;
+  border-radius: 8px;
+  margin-top: 0.5rem;
+  box-shadow: 0 2px 12px rgba(120, 72, 0, 0.10);
+}

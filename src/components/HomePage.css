@@ -1,0 +1,89 @@
+.home-page {
+  max-width: 750px;
+  margin: 2.5rem auto;
+  background: linear-gradient(135deg, #f5eee6 0%, #e6f5ea 100%);
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(120, 72, 0, 0.10);
+  overflow: hidden;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.home-container {
+  background: rgba(255,255,255,0.1) !important;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(120, 72, 0, 0.13);
+  border: 1.5px solid #b7a16a;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.home-header {
+  text-align: center;
+  background: linear-gradient(135deg, #f5eee6 60%, #e6f5ea 100%);
+  padding: 2.5rem 2rem 2rem 2rem;
+  border-radius: 18px 18px 0 0;
+}
+
+.home-header h1 {
+  color: #6b4f27;
+  margin-bottom: 1rem;
+  font-size: 2.2rem;
+}
+
+.home-header p {
+  color: #3a4d2c;
+  font-size: 1.15rem;
+  margin-bottom: 1.5rem;
+}
+
+.home-gif {
+  width: 220px;
+  border-radius: 12px;
+  margin-top: 1rem;
+  box-shadow: 0 2px 8px rgba(120, 72, 0, 0.10);
+  border: 2px solid #b7a16a;
+}
+
+.home-content {
+  padding: 2rem 2.5rem;
+  text-align: left;
+}
+
+.home-content h2 {
+  color: #6b4f27;
+  margin-bottom: 1rem;
+}
+
+.home-content ul {
+  list-style: disc inside;
+  padding-left: 1rem;
+  color: #3a4d2c;
+  font-size: 1.08rem;
+}
+
+.home-content li {
+  margin-bottom: 0.7rem;
+}
+
+.home-footer {
+  background: #f5eee6;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 0 0 18px 18px;
+  color: #6b4f27;
+  font-size: 0.98rem;
+  margin-top: 1rem;
+}
+
+.home-title {
+  color: #4e944f;
+  font-size: 2.2em;
+  margin-bottom: 1.2rem;
+}
+
+.home-text {
+  color: #3e2c13;
+  font-size: 1.15em;
+  line-height: 1.7;
+}

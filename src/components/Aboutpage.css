@@ -1,0 +1,52 @@
+.about-page {
+  max-width: 650px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #f5eee6 0%, #e6f5ea 100%);
+  box-shadow: 0 4px 24px rgba(120, 72, 0, 0.10);
+  text-align: center;
+}
+
+.about-container {
+  background: rgba(255,255,255,0.1) !important;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(120, 72, 0, 0.13);
+  border: 1.5px solid #b7a16a;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.about-page h1 {
+  color: #6b4f27;
+  margin-bottom: 1.5rem;
+}
+
+.about-title {
+  color: #8d6748;
+  font-size: 2em;
+  margin-bottom: 1rem;
+}
+
+.about-page p {
+  font-size: 1.1rem;
+  color: #3a4d2c;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.about-text {
+  color: #3e2c13;
+  font-size: 1.1em;
+  line-height: 1.7;
+}
+
+.about-gif {
+  width: 220px;
+  border-radius: 12px;
+  margin-top: 1rem;
+  box-shadow: 0 2px 8px rgba(120, 72, 0, 0.10);
+  border: 2px solid #b7a16a;
+}
